@@ -59,7 +59,6 @@ python universal.py ~/Pictures
 
 📊 Example Output
 
-text
 ============================================================
 DIRECTORY: Vacation_Photos
 ============================================================
